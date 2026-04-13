@@ -103,15 +103,15 @@ The project generates the following outputs:
 
 ### Accuracy
 
-![Accuracy graph](outputs/ accuracy.png)
+![Accuracy graph](outputs/accuracy.png)
 
 ### Loss
 
-![Loss graph](outputs/ loss.png)
+![Loss graph](outputs/loss.png)
 
 ### Confusion matrix
 
-![Confusion matrix](outputs/ confusion_matrix.png)
+![Confusion matrix](outputs/confusion_matrix.png)
 
 ---
 ## Images
