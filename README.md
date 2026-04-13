@@ -127,6 +127,18 @@ The project generates the following outputs:
 ### 🌐 Streamlit Web Interface
 
 ![Streamlit UI](images/streamlit.png)
+
+### Accuracy
+
+![Accuracy graph Output](images/accuracy.png)
+
+### Loss
+
+![Loss graph Output](images/loss.png)
+
+### Confusion matrix
+
+![Confusion matrix Output](images/confusion_matrix.png)
 ## 🖥️ How to Run the Project
 
 ### 1️⃣ Install Dependencies
