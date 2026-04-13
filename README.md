@@ -101,11 +101,17 @@ Chest X-Ray Dataset (Public Kaggle Dataset)
 
 The project generates the following outputs:
 
+### Accuracy
 
-outputs/
-├── accuracy.png
-├── loss.png
-├── confusion_matrix.png
+![Accuracy graph](outputs/ accuracy.png)
+
+### Loss
+
+![Loss graph](outputs/ loss.png)
+
+### Confusion matrix
+
+![Confusion matrix](outputs/ confusion_matrix.png)
 
 ---
 ## Images
